@@ -38,3 +38,23 @@ body {
 	flex-wrap: wrap;
 	justify-content: center;
 }
+
+.product {
+	position: relative;
+}
+
+.sold-out {
+	position: absolute;
+	top: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+
