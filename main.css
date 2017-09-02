@@ -48,7 +48,9 @@ body {
 	top: 90px;
 }
 
-
+.border-dash {
+	border: black dashed 10px;
+}
 
 
 
